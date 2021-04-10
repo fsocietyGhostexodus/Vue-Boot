@@ -1,10 +1,10 @@
-package io.javabrains.isthesiteup;
+package io.javabrains.coronavirustracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IsTheSiteUpApplicationTests {
+class CoronavirusTrackerApplicationTests {
 
 	@Test
 	void contextLoads() {

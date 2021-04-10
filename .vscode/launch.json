@@ -2,12 +2,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-IsTheSiteUpApplication<is-the-site-up>",
+            "name": "Spring Boot-CoronavirusTrackerApplication<coronavirus-tracker>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "io.javabrains.isthesiteup.IsTheSiteUpApplication",
-            "projectName": "is-the-site-up",
+            "mainClass": "io.javabrains.coronavirustracker.CoronavirusTrackerApplication",
+            "projectName": "coronavirus-tracker",
             "args": ""
         }
     ]

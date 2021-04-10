@@ -1,13 +1,13 @@
-package io.javabrains.isthesiteup;
+package io.javabrains.coronavirustracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IsTheSiteUpApplication {
+public class CoronavirusTrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IsTheSiteUpApplication.class, args);
+		SpringApplication.run(CoronavirusTrackerApplication.class, args);
 	}
 
 }
